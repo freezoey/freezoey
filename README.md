@@ -7,7 +7,7 @@
   <a href="mailto:zo@zoeypike.dev">Get in touch</a>
 </p>
 
-### Hi, I'm Zo.
+###I'm Zo.
 
 I turn ideas into working software: local AI agents, connected business tools, and full-stack applications. My work brings together **AI orchestration, API integration, and practical product development**, with a focus on making complex workflows easier to use and maintain.
 
