@@ -29,6 +29,7 @@ I take projects from requirements through implementation, debugging, and release
 
 ### Core toolkit
 
+**AI development tools:** Codex · Claude · ZoLocalAI (custom agent harness)
 **Build:** JavaScript · Node.js · Python scripting · SQL · Vite · Electron  
 **Connect:** REST APIs · Supabase · PostgreSQL · SQLite · Cloudflare Workers / R2  
 **AI & quality:** Ollama · Local speech tools · Context management · Playwright · Git
